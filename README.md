@@ -98,15 +98,10 @@ I love solving **coding challenges** and experimenting with **new web technologi
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/abusaleh569857/contributions?format=svg&private=false)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=👨‍💻+Frontend+Developer;💻+CSE+Student+at+UIU;🚀+Passionate+about+New+Technologies;🔧+Exploring+Development+World;🤖+Future+AI+%26+ML+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+
 
 ### 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abusaleh569857&theme=github-dark)
 
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=abusaleh569857&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
