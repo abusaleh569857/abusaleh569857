@@ -33,14 +33,14 @@ Skills: C / C++ / Java / Python / PHP / HTML5 / CSS3 / Tailwind CSS / Javascript
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/abusaleh569857/contributions?format=svg&private=false)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abusaleh569857)  
 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abusaleh569857)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abusaleh569857)  
+
+
+ 
 
 
 
