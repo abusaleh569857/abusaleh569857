@@ -12,12 +12,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=👨‍💻+Frontend+Developer;💻+CSE+Student+at+UIU;🚀+Passionate+about+New+Technologies;🔧+Exploring+Development+World;🤖+Future+AI+%26+ML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=22&width=550&lines=👨‍💻+Frontend+Developer;💻+CSE+Student+at+UIU;🚀+Passionate+about+New+Technologies;🔧+Exploring+Development+World;🤖+Future+AI+%26+ML+Enthusiast&color=F75C7E,FF8C00,FFD700,32CD32,00BFFF,8A2BE2" alt="Typing SVG" />
   </a>
 </p>
 
 
-## About Me :
+
+## About Me
 Hi, I'm **Abusaleh Alam Khan**, a **CSE student** at **United International University** with a passion for **web development** and **technology**. I have hands-on experience with **HTML**, **CSS**, **JavaScript**, and have worked with frameworks like **React**, **Node.js**, **Express.js**, **Firebase**, and **JWT** for building dynamic and scalable applications. Currently, I’m diving deeper into the **Next.js** framework, **Redux**, **Framer Motion**, and learning about **Docker** to enhance my development skills and workflows. I'm always eager to explore new technologies and continuously improve my knowledge in the ever-evolving world of **web development**.
 
 ---
