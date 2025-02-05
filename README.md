@@ -12,5 +12,11 @@ Skills: C / C++ / Java / Python / PHP / HTML5 / CSS3 / Tailwind CSS / Javascript
 - 🌱 I’m currently learning **Next.js**, **Docker**, **Redux**, and **Framer Motion** to enhance my web development skills and improve my project workflows.
 - 👯 I want to collaborate on **open-source web development projects**, **building responsive applications**, and **exploring new frameworks and technologies** with like-minded developers.
 - 🤔 I’m looking for help with **advanced concepts in Next.js**, **Docker integration**, and **state management with Redux** to build more efficient and scalable web applications.
+- 💬 Ask me about **React**, **frontend development**, **Tailwind CSS**, or **building full-stack web applications**!
+- 📫 How to reach me: You can reach me via **[Email](abusaleh.cse.uiu@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/abusaleh-alam-khan/)**.
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I love solving **coding challenges** and experimenting with **new web technologies** in my free time.
+  
+
 
 
