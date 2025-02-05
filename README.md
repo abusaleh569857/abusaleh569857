@@ -8,4 +8,5 @@ Hi, I'm **Abusaleh Alam Khan**, a **CSE student** at **United International Univ
 
 Skills: C / C++ / Java / Python / PHP / HTML5 / CSS3 / Tailwind CSS / Javascript / React / Node.js / Express.js / MongoDB / MySQL
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working on **web development projects** using **React**, **Tailwind CSS**, **Express.js**, **MongoDB**, **MySQL**, **React Router**, and **Context API**. Focused on building dynamic, responsive applications with a strong emphasis on user experience and modern web development practices.
+
