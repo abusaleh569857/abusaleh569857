@@ -105,7 +105,9 @@ I love solving **coding challenges** and experimenting with **new web technologi
 ### 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abusaleh569857&theme=github-dark)
 
+## 🔥 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=abusaleh569857&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
