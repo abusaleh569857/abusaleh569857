@@ -1,6 +1,12 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQH8lgftqdRwaQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738746946990?e=1744243200&v=beta&t=6XUEIry4FXELZjbt4MfV0jlqO3Q_p2pdDv-9f-tSBBI)
 
 # Hi there 👋, I'm Abusaleh Alam Khan
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=👨‍💻+Frontend+Developer;💻+CSE+Student+at+UIU;🚀+Passionate+about+New+Technologies;🔧+Exploring+Development+World;🤖+Future+AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
 #### 👨‍💻 Frontend Developer | 💡 Tech Enthusiast
 
 ## About Me :
