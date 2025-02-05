@@ -2,10 +2,15 @@
 
 # Hi there 👋, I'm Abusaleh Alam Khan
 <p align="center">
+  <!-- Static Text (Title) -->
+  <h3 align="center">👨‍💻 Frontend Developer | 💡 Tech Enthusiast | 💻 CSE Student at UIU | 🤖 Future AI & ML Enthusiast</h3>
+  
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=👨‍💻+Frontend+Developer;💻+CSE+Student+at+UIU;🚀+Passionate+about+New+Technologies;🔧+Exploring+Development+World;🤖+Future+AI+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
+
 
 #### 👨‍💻 Frontend Developer | 💡 Tech Enthusiast
 
