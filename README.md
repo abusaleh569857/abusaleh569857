@@ -107,6 +107,7 @@ I love solving **coding challenges** and experimenting with **new web technologi
 
 ## 🔥 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=abusaleh569857&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abusaleh569857)](https://git.io/streak-stats)
 
 
 
