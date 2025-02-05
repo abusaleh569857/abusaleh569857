@@ -96,6 +96,11 @@ I love solving **coding challenges** and experimenting with **new web technologi
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abusaleh569857&show_icons=true)
 
+| Top Languages | GitHub Stats |
+|--------------|-------------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abusaleh569857)](https://github.com/anuraghazra/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abusaleh569857&show_icons=true) |
+
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/abusaleh569857/contributions?format=svg&private=false)
 
 
