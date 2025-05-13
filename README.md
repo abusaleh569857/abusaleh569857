@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQH8lgftqdRwaQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738746946990?e=1744243200&v=beta&t=6XUEIry4FXELZjbt4MfV0jlqO3Q_p2pdDv-9f-tSBBI)
+
 <p align="center">
   <img src="./banner.png" alt="Banner" />
 </p>
