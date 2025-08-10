@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- Static Text (Title) -->
-  <h3 align="center">👨‍💻 Frontend Developer | 💻 CSE Student at UIU | 🤖 Future AI & ML Enthusiast</h3>
+  <h3 align="center">👨‍💻 Frontend Developer | 💻 Undergraduate Teaching Assistant at UIU | 🤖 Future AI & ML Enthusiast</h3>
   
   
 </p>
