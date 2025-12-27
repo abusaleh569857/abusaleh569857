@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- Static Text (Title) -->
-  <h3 align="center">👨‍💻 Frontend Developer | 💻 Undergraduate Teaching Assistant at UIU | 🤖 Future AI & ML Enthusiast</h3>
+  <h3 align="center">👨‍💻 Frontend Developer | 💻 Former Undergraduate Assistant at UIU | 🤖 Future AI & ML Enthusiast</h3>
   
   
 </p>
@@ -91,10 +91,6 @@ I love solving **coding challenges** and experimenting with **new web technologi
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abusaleh569857)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abusaleh-alam-khan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abusalehalam.khan)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Abusaleh_here)
 
 ---
-
-## 🏆 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abusaleh569857)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 | Top Languages | GitHub Stats |
